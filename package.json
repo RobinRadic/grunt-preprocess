@@ -33,7 +33,7 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "preprocess": "git://github.com/winnieliu/preprocess.git#master"
+    "preprocess": "git://github.com/robinradic/preprocess.git#master"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
